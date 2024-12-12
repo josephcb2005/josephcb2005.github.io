@@ -5,7 +5,7 @@ I am a Computer Science major at CSUF, and I am planning to graduate around 2028
 I have some early knowledge on some aspects of Computer Science, because before coming to CSUF, I learned how to work with Roblox Studio, where I learned how to make games, use basic developer practices and some concepts that helped me learn faster, such as Object Oriented Programming.
 
 
-## Favorite CPSC 120L Lab Assignments
+## * Favorite CPSC 120L Lab Assignments
 
 ## [Lab 12] 
 
