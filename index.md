@@ -9,12 +9,12 @@ I have some early knowledge on some aspects of Computer Science, because before 
 
 ## [Lab 12] 
 
-Lab 12 was pretty fun to do, because I was able to make a .gif file for the first time that plays an animated gradient effect.
+Lab 12 was pretty fun to do, because I was able to make a .gif file for the first time that plays an animated gradient effect. Looking at the TODO's, the README file, and asking for assistance helped me complete this lab.
 
 ## [Lab 10]
 
-Lab 10 is the first assignment that I had to figure out completely on my own and with the TODO's. The assignment also helped me get more comfortable with 2D vectors.
+Lab 10 is the first assignment that I had to figure out completely on my own and with the TODO's. The assignment also helped me get more comfortable with 2D vectors and learning that I can use them to store other vectors containing a data type.
 
 ## [Lab 08]
 
-This lab helped me learn how to use for-each loops when needed.
+This lab helped me learn how and when to use for-each loops. My experience with coding with Roblox helped me understand how the concept of for-each loops worked, and I was able to use that experience to finish the assignment.
